@@ -1,0 +1,43 @@
+/* Nav Underline Colors */
+/* Red */
+.hvr-underline-from-center1{display: inline-block;vertical-align: middle;-webkit-transform: perspective(1px) translateZ(0);transform: perspective(1px) translateZ(0);box-shadow: 0 0 1px rgba(0, 0, 0, 0);position: relative;overflow: hidden;padding:15px;}
+.hvr-underline-from-center1:before {content: "";position: absolute;z-index: -1;left: 51%;right: 51%;bottom: 0;
+  background: #fd6969;height: 4px;-webkit-transition-property: left, right;transition-property: left, right;-webkit-transition-duration: 0.3s;transition-duration: 0.3s;-webkit-transition-timing-function: ease-out;transition-timing-function: ease-out;}
+.hvr-underline-from-center1:active:before,
+.hvr-underline-from-center1:focus:before,
+.hvr-underline-from-center1:hover:before {left: 0;right: 0;}
+/* Blue */
+.hvr-underline-from-center2{display: inline-block;vertical-align: middle;-webkit-transform: perspective(1px) translateZ(0);transform: perspective(1px) translateZ(0);box-shadow: 0 0 1px rgba(0, 0, 0, 0);position: relative;overflow: hidden;padding:15px;}
+.hvr-underline-from-center2:before {content: "";position: absolute;z-index: -1;left: 51%;right: 51%;bottom: 0;
+  background: #6783fd;height: 4px;-webkit-transition-property: left, right;transition-property: left, right;-webkit-transition-duration: 0.3s;transition-duration: 0.3s;-webkit-transition-timing-function: ease-out;transition-timing-function: ease-out;}
+.hvr-underline-from-center2:active:before,
+.hvr-underline-from-center2:focus:before,
+.hvr-underline-from-center2:hover:before {left: 0;right: 0;}
+/* Green */
+.hvr-underline-from-center3{display: inline-block;vertical-align: middle;-webkit-transform: perspective(1px) translateZ(0);transform: perspective(1px) translateZ(0);box-shadow: 0 0 1px rgba(0, 0, 0, 0);position: relative;overflow: hidden;padding:15px;}
+.hvr-underline-from-center3:before {content: "";position: absolute;z-index: -1;left: 51%;right: 51%;bottom: 0;
+  background: #6ebc7d;height: 4px;-webkit-transition-property: left, right;transition-property: left, right;-webkit-transition-duration: 0.3s;transition-duration: 0.3s;-webkit-transition-timing-function: ease-out;transition-timing-function: ease-out;}
+.hvr-underline-from-center3:active:before,
+.hvr-underline-from-center3:focus:before,
+.hvr-underline-from-center3:hover:before {left: 0;right: 0;}
+/* Yellow */
+.hvr-underline-from-center4{display: inline-block;vertical-align: middle;-webkit-transform: perspective(1px) translateZ(0);transform: perspective(1px) translateZ(0);box-shadow: 0 0 1px rgba(0, 0, 0, 0);position: relative;overflow: hidden;padding:15px;}
+.hvr-underline-from-center4:before {content: "";position: absolute;z-index: -1;left: 51%;right: 51%;bottom: 0;
+  background: #feff8c;height: 4px;-webkit-transition-property: left, right;transition-property: left, right;-webkit-transition-duration: 0.3s;transition-duration: 0.3s;-webkit-transition-timing-function: ease-out;transition-timing-function: ease-out;}
+.hvr-underline-from-center4:active:before,
+.hvr-underline-from-center4:focus:before,
+.hvr-underline-from-center4:hover:before {left: 0;right: 0;}
+/* Pink */
+.hvr-underline-from-center5{display: inline-block;vertical-align: middle;-webkit-transform: perspective(1px) translateZ(0);transform: perspective(1px) translateZ(0);box-shadow: 0 0 1px rgba(0, 0, 0, 0);position: relative;overflow: hidden;padding:15px;}
+.hvr-underline-from-center5:before {content: "";position: absolute;z-index: -1;left: 51%;right: 51%;bottom: 0;
+  background: #fca0f2;height: 4px;-webkit-transition-property: left, right;transition-property: left, right;-webkit-transition-duration: 0.3s;transition-duration: 0.3s;-webkit-transition-timing-function: ease-out;transition-timing-function: ease-out;}
+.hvr-underline-from-center5:active:before,
+.hvr-underline-from-center5:focus:before,
+.hvr-underline-from-center5:hover:before {left: 0;right: 0;}
+/* Purple */
+.hvr-underline-from-center6{display: inline-block;vertical-align: middle;-webkit-transform: perspective(1px) translateZ(0);transform: perspective(1px) translateZ(0);box-shadow: 0 0 1px rgba(0, 0, 0, 0);position: relative;overflow: hidden;padding:15px;}
+.hvr-underline-from-center6:before {content: "";position: absolute;z-index: -1;left: 51%;right: 51%;bottom: 0;
+  background: #ae75fa;height: 4px;-webkit-transition-property: left, right;transition-property: left, right;-webkit-transition-duration: 0.3s;transition-duration: 0.3s;-webkit-transition-timing-function: ease-out;transition-timing-function: ease-out;}
+.hvr-underline-from-center6:active:before,
+.hvr-underline-from-center6:focus:before,
+.hvr-underline-from-center6:hover:before {left: 0;right: 0;}
